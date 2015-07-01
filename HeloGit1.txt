@@ -3,3 +3,5 @@ Hi
 This is to verify the newly added file from the command line.
 
 Thank You. Welcome.
+
+I have added this line in view of your response to allow me and add me to edit your repository
